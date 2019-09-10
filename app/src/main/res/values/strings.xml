@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Project_Kotlin</string>
+    <string name="Title">Notification App</string>
+    <string name="name">Name</string>
+    <string name="age">Age</string>
+    <string name="show">Show</string>
+    <string name="channel_name">ABC</string>
+    <string name="channel_description">ABCD</string>
+    <string name="welcome">Welcome to Notification View</string>
+</resources>
